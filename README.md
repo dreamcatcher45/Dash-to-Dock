@@ -80,7 +80,7 @@ gsettings set org.gnome.shell.extensions.dash-to-dock dock-position BOTTOM
 
 # Dock-transparency 🔎
 
-The numbers mentioned at the end of thge command stands for the opacity
+The numbers mentioned at the end of the command stands for the opacity
 ## Code
 
 ```
