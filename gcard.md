@@ -31,7 +31,7 @@
 
 <br />
 
-**3. Complete the payment and hit send...Thats all...easy as 1,2,3...**🌌
+**3. Complete the payment and hit send...Thats all...easy as 1,2,3...** 🌌
 
 <br />
 
